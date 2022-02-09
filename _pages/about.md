@@ -14,12 +14,5 @@ I am currently a 1st year Ph.D. candidate in the Department of Biostatistics at 
 Carolina at Chapel Hill. My research interests are in machine learning and numerical analysis, both
 theoretical and applied. 
 
-Education
-======
-* B.A. in Mathematics and Statistics  
-Cornell University, Ithaca, NY  
-*Aug 2017 - May 2021*
+Besides school, I enjoy reading, playing the guitar, and cinematography!
 
-* Ph.D. in Biostatistics  
-University of North Carolina, Chapel Hill, NC  
-*Aug 2021 - May 2026 (Expected)*

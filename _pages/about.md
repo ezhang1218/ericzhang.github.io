@@ -17,5 +17,5 @@ theoretical and applied.
 Education
 ======
 * B.A. in Mathematics and Statistics  
-* Cornell University, Ithaca, NY  
+Cornell University, Ithaca, NY  
 *Aug 2017 - May 2021*

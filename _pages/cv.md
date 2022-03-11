@@ -20,17 +20,10 @@ University of North Carolina, Chapel Hill, NC
 *Aug 2021 - May 2026 (Expected)*
 
 
-Work experience
+Experience
 ======
 * Summer 2020: Ernst & Young
   * Quantitative Advisory Intern
-* Fall 2019: Undergraduate Research Assistant
-  * Cornell University
-  * Project: Mixed Effect Modeling and Variable Selection for Quantile Regression
-  * Supervisor: Professor James Booth
-* Summer 2019: Undergraduate Research Assistant
-  * Duke University
-  * Project: Natural language processing in the context of court case documents
 * Summer 2018: Undergraduate Research Assistant
   * Albert Einstein College of Medicine
   * Project: Examining the relationship between metabolomics and diabetes in

@@ -24,11 +24,7 @@ Experience
 ======
 * Summer 2020: Ernst & Young
   * Quantitative Advisory Intern
-* Summer 2018: Undergraduate Research Assistant
-  * Albert Einstein College of Medicine
-  * Project: Examining the relationship between metabolomics and diabetes in
-two large cohorts of HIV-infected and HIV-uninfected individuals
-  * Dr. Qibin Qi
+
   
 Skills
 ======

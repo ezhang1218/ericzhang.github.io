@@ -14,5 +14,5 @@ I am currently a 1st year Ph.D. candidate in the Department of Biostatistics at 
 Carolina at Chapel Hill. My research interests are in machine learning and numerical analysis, both
 theoretical and applied. 
 
-Besides school, I enjoy reading, playing the guitar, and cinematography!
+Besides school, I enjoy reading, playing the guitar, and photography!
 

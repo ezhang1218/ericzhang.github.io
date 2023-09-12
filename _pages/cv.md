@@ -20,16 +20,6 @@ University of North Carolina, Chapel Hill, NC
 *Aug 2021 - May 2026 (Expected)*
 
 
-Experience
-======
-* Summer 2020: Ernst & Young
-  * Quantitative Advisory Intern
-
-  
-Skills
-======
-* Python, R, Java, SAS
-
 
 Publications
 ======

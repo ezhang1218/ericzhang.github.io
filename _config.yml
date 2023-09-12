@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Eric Zhang"
   avatar           : "profile.png"
-  bio              : "Biostatistics Ph.D. Student at UNC"
+  bio              : "Biostatistics Ph.D. Candidate at UNC"
   location         : "Chapel Hill, NC"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : ezhang1218@gmail.com
+  email            : 
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ezhang1218"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "/ericzhang12/"
+  linkedin         : 
   #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :  "https://www.youtube.com/channel/UCstAW5hgrBAS2G6kE9v6xWw"
+  youtube          :  
   wikipedia        :
 
 

@@ -14,7 +14,7 @@ I am currently a 3rd year Ph.D. candidate in the Department of Biostatistics at 
 Carolina at Chapel Hill. I graduated from Cornell University in 2021. 
 
 My research interests include high-dimensional statistics, time series,
-and machine learning, both theoretical and applied. In my free time, I enjoy playing chess,
-basketball, and the guitar. 
+and machine learning, both theoretical and applied. In my free time, I enjoy photography,
+basketball, used to play chess competitively.
 
 Feel free to reach out to me at eyzhang@unc.edu!

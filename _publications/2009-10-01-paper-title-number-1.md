@@ -7,9 +7,7 @@ venue: 'The Journal of Clinical Endocrinology and Metabolism'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/33420793/'
 citation: 'Zhang E., Chai JC., Deik AA. et. al. Plasma lipidomic profiles and risk of diabetes: results from two
 prospective cohorts of HIV-infected and HIV-uninfected individuals'
----
 
----
 title: "Contrastive Functional Principal Components Analysis"
 collection: publications
 permalink: /publication/1

@@ -9,6 +9,15 @@ citation: 'Zhang E., Chai JC., Deik AA. et. al. Plasma lipidomic profiles and ri
 prospective cohorts of HIV-infected and HIV-uninfected individuals'
 ---
 
+---
+title: "Contrastive Functional Principal Components Analysis"
+collection: publications
+permalink: /publication/1
+date: 2025-01-01
+venue: 'Association for the Advancement of Artificial Intelligence (AAAI)'
+paperurl: ''
+citation: 'Zhang, E., Li D., Contrastive Functional Principal Components Analysis'
+---
 
 
 
